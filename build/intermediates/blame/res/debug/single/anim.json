@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/upasanachauhan/.android/build-cache/7d4e5e3f849f79d2a6cea6d929d4740cb556fbd0/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/upasanachauhan/.android/build-cache/7d4e5e3f849f79d2a6cea6d929d4740cb556fbd0/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/upasanachauhan/.android/build-cache/7d4e5e3f849f79d2a6cea6d929d4740cb556fbd0/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/upasanachauhan/.android/build-cache/7d4e5e3f849f79d2a6cea6d929d4740cb556fbd0/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/upasanachauhan/.android/build-cache/7d4e5e3f849f79d2a6cea6d929d4740cb556fbd0/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/upasanachauhan/.android/build-cache/7d4e5e3f849f79d2a6cea6d929d4740cb556fbd0/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/upasanachauhan/.android/build-cache/7d4e5e3f849f79d2a6cea6d929d4740cb556fbd0/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/upasanachauhan/.android/build-cache/7d4e5e3f849f79d2a6cea6d929d4740cb556fbd0/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/upasanachauhan/.android/build-cache/7d4e5e3f849f79d2a6cea6d929d4740cb556fbd0/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/upasanachauhan/.android/build-cache/7d4e5e3f849f79d2a6cea6d929d4740cb556fbd0/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    }
+]

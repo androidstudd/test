@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/upasanachauhan/.android/build-cache/7d4e5e3f849f79d2a6cea6d929d4740cb556fbd0/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/upasanachauhan/.android/build-cache/7d4e5e3f849f79d2a6cea6d929d4740cb556fbd0/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/upasanachauhan/.android/build-cache/7d4e5e3f849f79d2a6cea6d929d4740cb556fbd0/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/upasanachauhan/.android/build-cache/7d4e5e3f849f79d2a6cea6d929d4740cb556fbd0/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/upasanachauhan/.android/build-cache/7d4e5e3f849f79d2a6cea6d929d4740cb556fbd0/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/upasanachauhan/.android/build-cache/7d4e5e3f849f79d2a6cea6d929d4740cb556fbd0/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/upasanachauhan/.android/build-cache/7d4e5e3f849f79d2a6cea6d929d4740cb556fbd0/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/upasanachauhan/.android/build-cache/7d4e5e3f849f79d2a6cea6d929d4740cb556fbd0/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/upasanachauhan/.android/build-cache/7d4e5e3f849f79d2a6cea6d929d4740cb556fbd0/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/upasanachauhan/.android/build-cache/7d4e5e3f849f79d2a6cea6d929d4740cb556fbd0/output/res/color-v23/abc_color_highlight_material.xml"
+    }
+]

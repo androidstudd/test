@@ -1,0 +1,198 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] /Users/upasanachauhan/.android/build-cache/2a4fa0ce5720c028bd6bc5b13a453f981e2ff1e2/output/AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/src/main/AndroidManifest.xml:7:5-28:19
+MERGED from [org.altbeacon:mylibrary:adhoc-SNAPSHOT] /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/mylibrary/build/intermediates/bundles/default/AndroidManifest.xml:23:5-45:19
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/upasanachauhan/.android/build-cache/7d4e5e3f849f79d2a6cea6d929d4740cb556fbd0/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/upasanachauhan/.android/build-cache/6a2ec2866be12bd15fa882fce2e2e88ee229dc64/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/upasanachauhan/.android/build-cache/201bd460cdddca2b7990d5064d7b002939cdd5c6/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha4] /Users/upasanachauhan/.android/build-cache/378ba1bcac28f3abdc20eb63d9e39cdd8a4ff992/output/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] /Users/upasanachauhan/.android/build-cache/2a4fa0ce5720c028bd6bc5b13a453f981e2ff1e2/output/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.6] /Users/upasanachauhan/.android/build-cache/feb430919b8db42949299ab122906b5b13e5debf/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.6] /Users/upasanachauhan/.android/build-cache/2971426cb3a57c17ba14823d8c74c69ca3d0b45a/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] /Users/upasanachauhan/.android/build-cache/d5a8f9e2c0012facd38a7073228907de4ab85335/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.2.6] /Users/upasanachauhan/.android/build-cache/b19f1ad1b9ec66c6dc2dec08e5100e59d9ac79fb/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] /Users/upasanachauhan/.android/build-cache/b542338cb4dfdce099775dc3a221c7bf0e94cb24/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] /Users/upasanachauhan/.android/build-cache/c468baa3e684e824bdb9764e1d26105d7e5b1660/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/upasanachauhan/.android/build-cache/b7648fcdbcac4349010e52300f00048153c4ed8f/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/upasanachauhan/.android/build-cache/d5a4355432bc1326f48ca6f485457d338eb782a4/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/upasanachauhan/.android/build-cache/43a4e68acd815a9c045d3ac881ea11689c1a0b9a/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/upasanachauhan/.android/build-cache/82d9c6af7b7c52d23076a9b0a719c98b17035d5d/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/upasanachauhan/.android/build-cache/ab8ba479ebf23e716a703419529c746326a44db6/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/src/main/AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/src/main/AndroidManifest.xml:12:9-35
+	android:allowBackup
+		ADDED from /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/src/main/AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/src/main/AndroidManifest.xml:10:9-40
+	android:theme
+		ADDED from /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/src/main/AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/src/main/AndroidManifest.xml:8:9-51
+activity#com.androidstudd.myapplication.MonitoringActivity
+ADDED from /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/src/main/AndroidManifest.xml:15:9-25:20
+	android:screenOrientation
+		ADDED from /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/src/main/AndroidManifest.xml:18:13-49
+	android:label
+		ADDED from /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/src/main/AndroidManifest.xml:17:13-45
+	android:name
+		ADDED from /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/src/main/AndroidManifest.xml:16:13-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/src/main/AndroidManifest.xml:23:27-74
+activity#com.androidstudd.myapplication.BeaconAdapter
+ADDED from /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/src/main/AndroidManifest.xml:26:9-27:61
+	android:screenOrientation
+		ADDED from /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/src/main/AndroidManifest.xml:27:13-49
+	android:name
+		ADDED from /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/src/main/AndroidManifest.xml:26:19-48
+uses-sdk
+INJECTED from /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [org.altbeacon:mylibrary:adhoc-SNAPSHOT] /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/mylibrary/build/intermediates/bundles/default/AndroidManifest.xml:8:5-11:208
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/upasanachauhan/.android/build-cache/7d4e5e3f849f79d2a6cea6d929d4740cb556fbd0/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/upasanachauhan/.android/build-cache/6a2ec2866be12bd15fa882fce2e2e88ee229dc64/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/upasanachauhan/.android/build-cache/201bd460cdddca2b7990d5064d7b002939cdd5c6/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha4] /Users/upasanachauhan/.android/build-cache/378ba1bcac28f3abdc20eb63d9e39cdd8a4ff992/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/upasanachauhan/.android/build-cache/49e3510709f20f0eeab8d18d486a3b88a3627aca/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-ads:10.2.6] /Users/upasanachauhan/.android/build-cache/d2d58b4789041dd783df60b023e32622aca09616/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] /Users/upasanachauhan/.android/build-cache/2a4fa0ce5720c028bd6bc5b13a453f981e2ff1e2/output/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.6] /Users/upasanachauhan/.android/build-cache/feb430919b8db42949299ab122906b5b13e5debf/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.6] /Users/upasanachauhan/.android/build-cache/2971426cb3a57c17ba14823d8c74c69ca3d0b45a/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] /Users/upasanachauhan/.android/build-cache/d5a8f9e2c0012facd38a7073228907de4ab85335/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:10.2.6] /Users/upasanachauhan/.android/build-cache/b19f1ad1b9ec66c6dc2dec08e5100e59d9ac79fb/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] /Users/upasanachauhan/.android/build-cache/b542338cb4dfdce099775dc3a221c7bf0e94cb24/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.2.0] /Users/upasanachauhan/.android/build-cache/c468baa3e684e824bdb9764e1d26105d7e5b1660/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/upasanachauhan/.android/build-cache/b7648fcdbcac4349010e52300f00048153c4ed8f/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/upasanachauhan/.android/build-cache/d5a4355432bc1326f48ca6f485457d338eb782a4/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/upasanachauhan/.android/build-cache/43a4e68acd815a9c045d3ac881ea11689c1a0b9a/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/upasanachauhan/.android/build-cache/82d9c6af7b7c52d23076a9b0a719c98b17035d5d/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] /Users/upasanachauhan/.android/build-cache/ab8ba479ebf23e716a703419529c746326a44db6/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [org.altbeacon:mylibrary:adhoc-SNAPSHOT] /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/mylibrary/build/intermediates/bundles/default/AndroidManifest.xml:11:9-205
+	android:targetSdkVersion
+		INJECTED from /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from [org.altbeacon:mylibrary:adhoc-SNAPSHOT] /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/mylibrary/build/intermediates/bundles/default/AndroidManifest.xml:13:5-15:36
+	android:required
+		ADDED from [org.altbeacon:mylibrary:adhoc-SNAPSHOT] /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/mylibrary/build/intermediates/bundles/default/AndroidManifest.xml:15:9-33
+	android:name
+		ADDED from [org.altbeacon:mylibrary:adhoc-SNAPSHOT] /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/mylibrary/build/intermediates/bundles/default/AndroidManifest.xml:14:9-52
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [org.altbeacon:mylibrary:adhoc-SNAPSHOT] /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/mylibrary/build/intermediates/bundles/default/AndroidManifest.xml:16:5-18:36
+	android:required
+		ADDED from [org.altbeacon:mylibrary:adhoc-SNAPSHOT] /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/mylibrary/build/intermediates/bundles/default/AndroidManifest.xml:18:9-33
+	android:name
+		ADDED from [org.altbeacon:mylibrary:adhoc-SNAPSHOT] /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/mylibrary/build/intermediates/bundles/default/AndroidManifest.xml:17:9-58
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [org.altbeacon:mylibrary:adhoc-SNAPSHOT] /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/mylibrary/build/intermediates/bundles/default/AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from [org.altbeacon:mylibrary:adhoc-SNAPSHOT] /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/mylibrary/build/intermediates/bundles/default/AndroidManifest.xml:19:22-78
+uses-permission-sdk-23
+ADDED from [org.altbeacon:mylibrary:adhoc-SNAPSHOT] /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/mylibrary/build/intermediates/bundles/default/AndroidManifest.xml:21:5-88
+	android:name
+		ADDED from [org.altbeacon:mylibrary:adhoc-SNAPSHOT] /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/mylibrary/build/intermediates/bundles/default/AndroidManifest.xml:21:29-85
+activity#org.altbeacon.androidfiles.MainActivity
+ADDED from [org.altbeacon:mylibrary:adhoc-SNAPSHOT] /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/mylibrary/build/intermediates/bundles/default/AndroidManifest.xml:24:9-25:20
+	android:name
+		ADDED from [org.altbeacon:mylibrary:adhoc-SNAPSHOT] /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/mylibrary/build/intermediates/bundles/default/AndroidManifest.xml:24:19-73
+receiver#org.altbeacon.beacon.startup.StartupBroadcastReceiver
+ADDED from [org.altbeacon:mylibrary:adhoc-SNAPSHOT] /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/mylibrary/build/intermediates/bundles/default/AndroidManifest.xml:27:9-33:20
+	android:name
+		ADDED from [org.altbeacon:mylibrary:adhoc-SNAPSHOT] /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/mylibrary/build/intermediates/bundles/default/AndroidManifest.xml:27:19-87
+intent-filter#android.intent.action.ACTION_POWER_CONNECTED+android.intent.action.ACTION_POWER_DISCONNECTED+android.intent.action.BOOT_COMPLETED
+ADDED from [org.altbeacon:mylibrary:adhoc-SNAPSHOT] /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/mylibrary/build/intermediates/bundles/default/AndroidManifest.xml:28:13-32:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [org.altbeacon:mylibrary:adhoc-SNAPSHOT] /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/mylibrary/build/intermediates/bundles/default/AndroidManifest.xml:29:17-79
+	android:name
+		ADDED from [org.altbeacon:mylibrary:adhoc-SNAPSHOT] /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/mylibrary/build/intermediates/bundles/default/AndroidManifest.xml:29:25-76
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [org.altbeacon:mylibrary:adhoc-SNAPSHOT] /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/mylibrary/build/intermediates/bundles/default/AndroidManifest.xml:30:17-87
+	android:name
+		ADDED from [org.altbeacon:mylibrary:adhoc-SNAPSHOT] /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/mylibrary/build/intermediates/bundles/default/AndroidManifest.xml:30:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [org.altbeacon:mylibrary:adhoc-SNAPSHOT] /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/mylibrary/build/intermediates/bundles/default/AndroidManifest.xml:31:17-90
+	android:name
+		ADDED from [org.altbeacon:mylibrary:adhoc-SNAPSHOT] /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/mylibrary/build/intermediates/bundles/default/AndroidManifest.xml:31:25-87
+service#org.altbeacon.beacon.service.BeaconService
+ADDED from [org.altbeacon:mylibrary:adhoc-SNAPSHOT] /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/mylibrary/build/intermediates/bundles/default/AndroidManifest.xml:35:9-40:38
+	android:enabled
+		ADDED from [org.altbeacon:mylibrary:adhoc-SNAPSHOT] /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/mylibrary/build/intermediates/bundles/default/AndroidManifest.xml:37:13-35
+	android:label
+		ADDED from [org.altbeacon:mylibrary:adhoc-SNAPSHOT] /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/mylibrary/build/intermediates/bundles/default/AndroidManifest.xml:40:13-35
+	android:exported
+		ADDED from [org.altbeacon:mylibrary:adhoc-SNAPSHOT] /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/mylibrary/build/intermediates/bundles/default/AndroidManifest.xml:38:13-37
+	android:isolatedProcess
+		ADDED from [org.altbeacon:mylibrary:adhoc-SNAPSHOT] /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/mylibrary/build/intermediates/bundles/default/AndroidManifest.xml:39:13-44
+	android:name
+		ADDED from [org.altbeacon:mylibrary:adhoc-SNAPSHOT] /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/mylibrary/build/intermediates/bundles/default/AndroidManifest.xml:36:13-70
+service#org.altbeacon.beacon.BeaconIntentProcessor
+ADDED from [org.altbeacon:mylibrary:adhoc-SNAPSHOT] /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/mylibrary/build/intermediates/bundles/default/AndroidManifest.xml:41:9-44:40
+	android:enabled
+		ADDED from [org.altbeacon:mylibrary:adhoc-SNAPSHOT] /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/mylibrary/build/intermediates/bundles/default/AndroidManifest.xml:43:13-35
+	android:exported
+		ADDED from [org.altbeacon:mylibrary:adhoc-SNAPSHOT] /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/mylibrary/build/intermediates/bundles/default/AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from [org.altbeacon:mylibrary:adhoc-SNAPSHOT] /Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/mylibrary/build/intermediates/bundles/default/AndroidManifest.xml:42:13-70
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] /Users/upasanachauhan/.android/build-cache/2a4fa0ce5720c028bd6bc5b13a453f981e2ff1e2/output/AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] /Users/upasanachauhan/.android/build-cache/2a4fa0ce5720c028bd6bc5b13a453f981e2ff1e2/output/AndroidManifest.xml:20:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] /Users/upasanachauhan/.android/build-cache/2a4fa0ce5720c028bd6bc5b13a453f981e2ff1e2/output/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] /Users/upasanachauhan/.android/build-cache/2a4fa0ce5720c028bd6bc5b13a453f981e2ff1e2/output/AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] /Users/upasanachauhan/.android/build-cache/2a4fa0ce5720c028bd6bc5b13a453f981e2ff1e2/output/AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] /Users/upasanachauhan/.android/build-cache/2a4fa0ce5720c028bd6bc5b13a453f981e2ff1e2/output/AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] /Users/upasanachauhan/.android/build-cache/2a4fa0ce5720c028bd6bc5b13a453f981e2ff1e2/output/AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] /Users/upasanachauhan/.android/build-cache/2a4fa0ce5720c028bd6bc5b13a453f981e2ff1e2/output/AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] /Users/upasanachauhan/.android/build-cache/2a4fa0ce5720c028bd6bc5b13a453f981e2ff1e2/output/AndroidManifest.xml:26:19-91
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.6] /Users/upasanachauhan/.android/build-cache/2971426cb3a57c17ba14823d8c74c69ca3d0b45a/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] /Users/upasanachauhan/.android/build-cache/2971426cb3a57c17ba14823d8c74c69ca3d0b45a/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] /Users/upasanachauhan/.android/build-cache/2971426cb3a57c17ba14823d8c74c69ca3d0b45a/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] /Users/upasanachauhan/.android/build-cache/2971426cb3a57c17ba14823d8c74c69ca3d0b45a/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.6] /Users/upasanachauhan/.android/build-cache/b542338cb4dfdce099775dc3a221c7bf0e94cb24/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.6] /Users/upasanachauhan/.android/build-cache/b542338cb4dfdce099775dc3a221c7bf0e94cb24/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.6] /Users/upasanachauhan/.android/build-cache/b542338cb4dfdce099775dc3a221c7bf0e94cb24/output/AndroidManifest.xml:20:20-65

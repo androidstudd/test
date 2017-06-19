@@ -1,0 +1,4 @@
+#Sun Jun 11 23:26:22 AEST 2017
+base.0=/Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/build/intermediates/transforms/dex/release/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/upasanachauhan/Downloads/AndroidStud-beacondetector-b799861dcf38/app/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex
